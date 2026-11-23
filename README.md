@@ -61,11 +61,11 @@ Bu nedenle çalışma, yüksek performanslı bir sınıflandırma sistemi geliş
 
 ## 📂 Proje Dosyaları
 
-- `kod/` — Jupyter Notebook uygulaması
-- `veri/` — Analizde kullanılan Excel veri seti
-- `grafikler/` — Analiz görselleri
-- `sunum/` — PowerPoint ve PDF sunum dosyaları
-- `kullanılan kaynaklar ve linkler/` — Kaynak dokümanı
+- 📓 [Python Kodları](NLP_Sunum/kod/) — Jupyter Notebook uygulaması
+- 📊 [Veri Seti](NLP_Sunum/veri/) — Analizde kullanılan Excel dosyası
+- 📈 [Grafikler](NLP_Sunum/grafikler/) — Analiz görselleri
+- 📽️ [Sunum Dosyaları](NLP_Sunum/sunum/) — PowerPoint ve PDF sunumları
+- 📚 [Kaynaklar](NLP_Sunum/kullanılan%20kaynaklar%20ve%20linkler/) — Yararlanılan kaynaklar
 
 Bu klasörler GitHub deposundaki `NLP_Sunum` dizini içerisinde bulunmaktadır.
 
